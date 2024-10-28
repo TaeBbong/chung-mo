@@ -2,15 +2,8 @@
 
 A new Flutter project.
 
-## Getting Started
+## TODO
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- [ ] share_plus, intent 활용 다른 앱에서 청모 앱으로 링크 공유해주게끔
+- [ ] 청모 앱에서는 공유받은 링크를 보관
+- [ ] ogtag 있는 경우 일부 정보만 파싱해서 list로 저장
