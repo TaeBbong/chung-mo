@@ -31,6 +31,7 @@ class _HomeScreenState extends State<HomeScreen> {
     try {
       final result = await platform.invokeMethod<String>('getSharedData');
       setState(() {
+        print(result);
         sharedText = result;
       });
     } on PlatformException catch (e) {
